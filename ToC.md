@@ -3,7 +3,7 @@
 - [Python](/pages/python/intro_setup.md)
   - [Introduction and Setup](/pages/python/intro_setup.md)
   - [Hello, World!](/pages/python/hello_world.md)
-  - [Variables](/pages/unfinished.md)
+  - [Variables](/pages/python/variables_types.md)
   - [Control Structures](/pages/unfinished.md)
   - [Functions](/pages/unfinished.md)
   - [F-Strings](/pages/unfinished.md)
