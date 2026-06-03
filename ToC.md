@@ -10,11 +10,13 @@
   - [Variable Type Casting](/pages/unfinished.md)
   - [List Comprehensions](/pages/unfinished.md)
   - [Classes](/pages/unfinished.md)
-- [Object-Oriented Programming](/pages/unfinished.md)
+- [Object-Oriented Programming](/pages/unfinished.md) (TODO)
   - [Introduction](/pages/unfinished.md)
   - [Encapsulation](/pages/unfinished.md)
   - [Abstraction](/pages/unfinished.md)
   - [Inheritance](/pages/unfinished.md)
   - [Polymorphism](/pages/unfinished.md)
-- [C](/pages/unfinished.md)
+- [Programming Theory](/pages/unfinished.md) (TODO)
+  - *coming soon :)*
+- [C](/pages/unfinished.md) (TODO)
   - *coming soon :)*
