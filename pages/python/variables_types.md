@@ -13,6 +13,8 @@ and now `x` is set to 5. It's that easy! Except I'm going to make it harder, bec
 
 ## Types
 In programming, we have a set of generally defined types. The most basic of these types (generally known as the *integral datatypes*) are as follows:
+
+
 | Name | Common Shortening | Description |
 | --- | --- | --- |
 | Integer | `int` | Any whole number, such as 1, 4, 8, or 12,563 |
@@ -27,6 +29,8 @@ Python programmers don't usually have to worry about this. If you plan to stick 
 In Python, we can annotate the types of variables when we define them. It's important to note that the interpreter DOES NOT CHECK the validity of annotations. For example, if you annotate a float as an integer, the interpreter doesn't care. So it's YOUR problem to ensure your annotations are valid.
 
 That being said, these are the following valid types for Python:
+
+
 | Type | Description |
 | --- | --- |
 | `int` | Exactly the same as the integral integer type earlier |
@@ -76,6 +80,8 @@ All types can be used in print statements simply by putting them into the parent
 
 ## Other types
 There are more types beyond the "integral" types Python provides us. These are a few:
+
+
 | Type | Shortening | Description |
 | --- | --- | --- |
 | List | `list` | a collection of any number of any type of values |
