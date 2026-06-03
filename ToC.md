@@ -1,7 +1,7 @@
 # Table of Contents
 
 - [Python](/pages/unfinished.md)
-  - [Hello, World!](/pages/unfinished.md)
+  - [Hello, World!](/pages/python/hello_world.md)
   - [Variables](/pages/unfinished.md)
   - [Control Structures](/pages/unfinished.md)
   - [Functions](/pages/unfinished.md)
