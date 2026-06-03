@@ -19,3 +19,8 @@ Surely you can find an online python IDE to test your code if you for some reaso
 
 ## Files
 Python files should always have the extension `.py` after their name. This signifies that the file is a Python file. Outside of that and the general conventions of naming files (alphanumeric as well as _, -, and a few other symbols are allowed to be used in file names), there are no other restrictions.
+
+## About Python
+*This isn't entirely necessary to understand as of now, so you can skip this, but I think it's nice to know a little about the language you're learning.*
+
+Python is what's known as an *interpreted language*. Basically, these are languages where the source code (our `.py` file) is turned immediately into execution instead of becoming an executable file, such as a `.exe` file. I'm not a history fanatic, so I can't recite the whole history of Python off the top of my head, but [this Wikipedia article](https://en.wikipedia.org/wiki/Python_(programming_language)) does a pretty good job of explaining it, I think.
