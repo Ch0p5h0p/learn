@@ -1,5 +1,6 @@
 title: Computer, Do The Thing
 description: Learning programming from scratch
+thumbnail: "/thumbnail.png"
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
