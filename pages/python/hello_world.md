@@ -13,3 +13,5 @@ Simple enough, huh? Generally, in your IDE (or terminal) you'll see `Hello, Worl
 Let's disect this a bit so I didn't just tell you to write something and not explain what it does. `print` is a function. If you're completely new to programming, functions are reusable sections of code. We'll telk about them more in a later section. Using a function is called "calling" the function, and we do so with the parenthesis you see after print. Inside the parenthesis is where we put our parameters, in this case, a few words.
 
 As a simple exercise, trying writing another print statement on another line below it saying your favorite quote. Or gibberish. Your choice.
+
+Another important thing to learn is called commenting. Simply preface each line of a comment with a `#` and the interpreter will ignore it. Generally, these are used for notes and documentation in code files.
