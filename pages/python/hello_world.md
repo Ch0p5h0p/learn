@@ -17,4 +17,5 @@ As a simple exercise, trying writing another print statement on another line bel
 Another important thing to learn is called commenting. Simply preface each line of a comment with a `#` and the interpreter will ignore it. Generally, these are used for notes and documentation in code files.
 
 [Next: Variables and Types](variables_types.md)
+
 [Table of Contents](../ToC.md)
