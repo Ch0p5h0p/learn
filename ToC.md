@@ -1,6 +1,7 @@
 # Table of Contents
 
-- [Python](/pages/unfinished.md)
+- [Python](/pages/python/intro_setup.md)
+  - [Introduction and Setup](/pages/python/intro_setup.md)
   - [Hello, World!](/pages/python/hello_world.md)
   - [Variables](/pages/unfinished.md)
   - [Control Structures](/pages/unfinished.md)
