@@ -3,7 +3,7 @@
 
 # Table of Contents
 
- ### Python (IN PROGRESS)
+### Python (IN PROGRESS)
   1. [Introduction and Setup](python/intro_setup.md)
   2. [Hello, World!](python/hello_world.md)
   3. [Variables](python/variables_types.md)
