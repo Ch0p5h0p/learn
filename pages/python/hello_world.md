@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Hello, World!"
+toc_url: "/learn/pages/ToC.md"
+next_url: "variables_types.md"
+next_title: "Variables and Types"
+---
+
 # Hello, World!
 
 Welcome to Python! As is standard with any programming language, let's start with the classic "Hello, World!" code.
@@ -15,7 +23,3 @@ Let's disect this a bit so I didn't just tell you to write something and not exp
 As a simple exercise, trying writing another print statement on another line below it saying your favorite quote. Or gibberish. Your choice.
 
 Another important thing to learn is called commenting. Simply preface each line of a comment with a `#` and the interpreter will ignore it. Generally, these are used for notes and documentation in code files.
-
-[Next: Variables and Types](variables_types.md)
-
-[Table of Contents](../ToC.md)
