@@ -1,6 +1,6 @@
 # Computer, Do The Thing
 
-A programming guide by Ch0p / Kangaroo
+Miscellaneous programming guides and resources by Ch0p / Kangaroo
 
 [Intro](/pages/intro.md)
 
