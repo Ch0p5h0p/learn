@@ -8,7 +8,6 @@
   - [Functions](unfinished.md) (TODO)
   - [F-Strings](unfinished.md) (TODO)
   - [Variable Type Casting](unfinished.md) (TODO)
-  - [List Comprehensions](unfinished.md) (TODO)
   - [Classes](unfinished.md) (TODO)
 - [Object-Oriented Programming](unfinished.md) (TODO)
   - [Introduction](unfinished.md)
