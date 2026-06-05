@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Variables and Types"
+next_url: "control_structures.md"
+next_title: "Control Structures"
+toc_url: "/learn/pages/ToC.md"
+prev_url: "hello_world.md"
+prev_title: "Hello, World!"
+---
+
 # Variables and Types
 
 As of writing this, I'm guessing you have enough understanding of math to understand what the mathematical expression `x=2` means. If you don't for some reason, `x` in this case is a variable. The expression `x=5` means that `x` is assigned to be 5.
@@ -144,7 +154,3 @@ which would reassign x from an integer to a string. This isn't allowed in most o
 
 ## Ending
 Whew, that was long! With any luck, this should be the longest section in the Python chapter.
-
-[Next: Control Structures](control_structures.md)
-
-[Table of Contents](/learn/pages/ToC.md)
