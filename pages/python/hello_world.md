@@ -4,6 +4,8 @@ title: "Hello, World!"
 toc_url: "/learn/pages/ToC.md"
 next_url: "variables_types.md"
 next_title: "Variables and Types"
+prev_url: "intro_setup.md"
+prev_title: "Python Introduction and Setup"
 ---
 
 # Hello, World!
