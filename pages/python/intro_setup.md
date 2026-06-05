@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Python Introduction and Setup"
-next_url: "/learn/pages/python/hello_world.html"
+next_url: "/pages/python/hello_world.html"
 next_title: "Hello, World!"
-toc_url: "/learn/pages/ToC.html"
+toc_url: "/pages/ToC.html"
 ---
 
 # Python Introduction and Setup
