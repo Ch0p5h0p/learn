@@ -4,7 +4,7 @@
   - [Introduction and Setup](python/intro_setup.md)
   - [Hello, World!](python/hello_world.md)
   - [Variables](python/variables_types.md)
-  - [Control Structures](unfinished.md) (TODO)
+  - [Control Structures](python/control_structures.md)
   - [Functions](unfinished.md) (TODO)
   - [F-Strings](unfinished.md) (TODO)
   - [Variable Type Casting](unfinished.md) (TODO)
