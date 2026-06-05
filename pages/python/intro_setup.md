@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Python Introduction and Setup"
+next_url: "hello_world.md"
+next_title: "Hello, World!"
+toc_url: "/learn/pages/ToC.md"
+---
+
 # Python Introduction and Setup
 
 Welcome to Python! This will be your first step into programming. Before we start with coding, let's get set up.
