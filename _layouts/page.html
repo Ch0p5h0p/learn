@@ -12,8 +12,8 @@ layout: default
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
 
-<div class="page_navigation">
-  <div class="prev_page">
+<div class="page-navigation">
+  <div class="nav-item prev-page">
     {% if page.prev_url}
     <a href="{{ page.prev_url | relative_url }}">
       &larr; {{ page.prev_title }}
@@ -29,7 +29,7 @@ layout: default
     {% endif %}
   </div>
 
-  <div class="next_page">
+  <div class="nav-item next-page">
     {% if page.next_url}
     <a href="{{ page.next_url | relative_url }}">
       {{ page.next_title }} $rarr;
