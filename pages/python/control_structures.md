@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Control Structures"
-prev_url: "variables_types.md"
+prev_url: "/learn/pages/python/variables_types.html"
 prev_title: "Variables and Types"
-toc_url: "/learn/pages/ToC.md"
+toc_url: "/learn/pages/ToC.html"
 ---
 
 # Control Structures
