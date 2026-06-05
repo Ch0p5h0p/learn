@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Variables and Types"
-next_url: "/learn/pages/python/control_structures.html"
+next_url: "/pages/python/control_structures.html"
 next_title: "Control Structures"
-toc_url: "/learn/pages/ToC.html"
-prev_url: "/learn/pages/python/hello_world.html"
+toc_url: "/pages/ToC.html"
+prev_url: "/pages/python/hello_world.html"
 prev_title: "Hello, World!"
 ---
 
