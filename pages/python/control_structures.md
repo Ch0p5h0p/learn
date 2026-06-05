@@ -57,7 +57,7 @@ if a >= b:
     print("Oh wait nope just equal")
 ```
 
-If statements can also have a few other clauses: `else` and `elseif`. Let's start with `else`.
+If statements can also have a few other clauses: `else` and `elif`. Let's start with `else`.
 
 `else` simply runs if the if statement's condition fails to be met. For example:
 ```python
@@ -67,19 +67,19 @@ else:
   print("a is not greater than b")
 ```
 
-`elseif` allows chained conditions. It effectively operates as another if statement in a chain. Here's an example:
+`elif` stands for "else-if" allows chained conditions. It effectively operates as another if statement in a chain. Here's an example:
 ```python
 if a == b:
   print("a equals b")
-elseif a < b:
+elif a < b:
   print("a is less than b")
-elseif a > b:
+elif a > b:
   print("a is greater than b")
 else:
   print("something weird happened idk")
 ```
 
-When you construct a chain, it should have the most specific condition first. This is because in an elseif chain, (an if statement with two or more `elseif` clauses), when an `elseif` clause hits, it will terminate the chain after executing the body.
+When you construct a chain, it should have the most specific condition first. This is because in an elif chain, (an if statement with two or more `elif` clauses), when an `elif` clause hits, it will terminate the chain after executing the body.
 
 You can also write if statements in-line to select between specific values. For example, you can write:
 ```python
