@@ -32,8 +32,8 @@
 .nav-item a:hover {
   color: #FFFFFF;
   border: 1px solid #0056b3;
-  box-shadow: 0 0 4px #0056b3;
-  transition: 0.3s cubic-bezier(0.68, -1, 0.27, 1.55);
+  box-shadow: 0 0 8px #0056b3;
+  transition: box-shadow 0.3s cubic-bezier(0.68, -1, 0.27, 1.55);
 }
 
 .prev-item {
