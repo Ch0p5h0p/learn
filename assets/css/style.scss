@@ -26,14 +26,13 @@
   border-radius: 4px;
   text-decoration: none;
   font-weight: bold;
-  transition: all 0.2s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 .nav-item a:hover {
   color: #FFFFFF;
   border: 1px solid #0056b3;
   box-shadow: 0 0 8px #0056b3;
-  transition: box-shadow 0.3s cubic-bezier(0.68, -1, 0.27, 1.55);
 }
 
 .prev-item {
