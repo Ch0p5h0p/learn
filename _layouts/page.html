@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<p class="view">by {{ page.author | default: site.author }}</p>
+
+{{content}}
+
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
+
+<div class="page_navigation">
+  <div class="prev_page">
+    {% if page.prev_url}
+    <a href="{{ page.prev_url | relative_url }}">
+      &larr; {{ page.prev_title }}
+    </a>
+    {% endif %}
+  </div>
+
+  <div class="nav-item toc-item">
+    {% if page.toc_url %}
+      <a href="{{ page.toc_url | relative_url }}">
+        &#9776; Table of Contents
+      </a>
+    {% endif %}
+  </div>
+
+  <div class="next_page">
+    {% if page.next_url}
+    <a href="{{ page.next_url | relative_url }}">
+      {{ page.next_title }} $rarr;
+    </a>
+    {% endif %}
+  </div>
+</div>
