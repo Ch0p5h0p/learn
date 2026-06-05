@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Hello, World!"
-toc_url: "/learn/pages/ToC.md"
-next_url: "variables_types.md"
+toc_url: "/learn/pages/ToC.html"
+next_url: "/learn/pages/python/variables_types.html"
 next_title: "Variables and Types"
-prev_url: "intro_setup.md"
+prev_url: "/learn/pages/python/intro_setup.html"
 prev_title: "Python Introduction and Setup"
 ---
 
