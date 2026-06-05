@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Control Structures"
+prev_url: "variables_types.md"
+prev_title: "Variables and Types"
+toc_url: "/learn/pages/ToC.md"
+---
+
 # Control Structures
 
 Control structures are things that allow you to control which things your program does and doesn't do, and how many times to do them. Before we talk about control structures, we need to talk more about booleans, which control them.
@@ -169,5 +177,3 @@ This sets `l` equal to this value:
 
 ## Ending
 Now we know how to control our program and do fun things! As an excercise, use the `input()` function to make a number guessing game. You can even make it multiple rounds by using a list if you want. `input()` takes in a string as the sole parameter, then waits for the user to enter a value and press enter before using it. For example, `a:str = input("what's your name? ")` would wait for me to enter a value (hopefully my name) and then store it in `a`.
-
-[Table of Contents](/learn/pages/ToC.md)
