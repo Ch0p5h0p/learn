@@ -145,4 +145,6 @@ which would reassign x from an integer to a string. This isn't allowed in most o
 ## Ending
 Whew, that was long! With any luck, this should be the longest section in the Python chapter.
 
+[Next: Control Structures](control_structures.md)
+
 [Table of Contents](/learn/pages/ToC.md)
